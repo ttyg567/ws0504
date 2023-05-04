@@ -107,7 +107,7 @@
       <recent name="com.kbstar.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.adminApplication">
+  <component name="RunManager" selected="Spring Boot.ws0504Application">
     <configuration name="DeleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="admin" />
       <extension name="coverage">
@@ -151,23 +151,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adminApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="adminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.adminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ws0504Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="ws0504" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.adminApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.ws0504Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="admin" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.adminApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="adminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="admin" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.adminApplication" />
+    <configuration name="ws0504Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ws0504" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kbstar.ws0504Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
